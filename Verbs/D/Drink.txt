@@ -1,0 +1,6 @@
+I drink = Ja piję (pijie)
+You drink = Ty
+He/She/Is drink = On/Ona/Ono pije (pijie)
+We drink = My
+You drink = Wy
+They drink = Oni/One

@@ -1,0 +1,3 @@
+The girl  = Dziewczynka (tzeftzinka)
+The girls = Dziewczynki (tzeftzinki)
+A girl    = Dziewczynką (tzeftzenko)

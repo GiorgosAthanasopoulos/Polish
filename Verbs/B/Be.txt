@@ -1,0 +1,6 @@
+I am = Ja jestem (jiestem)
+You are =  Ty jesteś (jiestes)
+He/She/It is = On/Ona/Ono jest (jiest)
+We are = My
+You are =  Wy
+They are = Oni/One

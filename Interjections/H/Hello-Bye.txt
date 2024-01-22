@@ -1,2 +1,2 @@
-Hello = Cześć (tsests)
+Hello/Bye = Cześć (tsests)
 Hello = Witaj (vitai) -- Hello/Welcome

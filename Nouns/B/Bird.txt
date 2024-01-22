@@ -1,0 +1,1 @@
+Bird = ptak (ptak)

@@ -1,0 +1,6 @@
+I speak = Ja mówię (movie)
+You speak = Ty 
+He/She/It speak = On/Ona/Ono 
+We speak = My 
+You speak = Wy
+They speak = Oni/One 

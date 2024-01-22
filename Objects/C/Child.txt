@@ -1,2 +1,2 @@
-The child    = Dziecko (jetsko)
+A child      = Dziecko (jetsko)
 The children = Dzieci (jitzi)

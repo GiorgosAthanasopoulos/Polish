@@ -1,5 +1,0 @@
-I speak {language} = Ja mówię po {language} (jia movi po)
-
-Example:
-    - Ja mówię po polsku   (I speak polish)
-    - Ja mówię po angielsku (I speak english)

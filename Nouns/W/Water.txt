@@ -1,1 +1,2 @@
-Water = Wodę (vode)
+Water = Woda (voda)
+The water = Wodę (vode)

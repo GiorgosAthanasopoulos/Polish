@@ -1,3 +1,3 @@
 A boy    = Chłopiec (houopietz)
-The boys = Chłopcy (houoptze)
 The boy  = Chłopcem (hoptzem)
+The boys = Chłopcy (houoptze)

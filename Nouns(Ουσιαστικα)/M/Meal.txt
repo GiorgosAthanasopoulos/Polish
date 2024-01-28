@@ -1,1 +1,1 @@
-Meal = Posiłek (poshuiek)
+Meal (masculine) = Posiłek (poshuiek)

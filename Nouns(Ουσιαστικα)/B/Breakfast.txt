@@ -1,1 +1,1 @@
-Breakfast = śniadanie (snedanie)
+Breakfast (neutral) = śniadanie (snedanie)

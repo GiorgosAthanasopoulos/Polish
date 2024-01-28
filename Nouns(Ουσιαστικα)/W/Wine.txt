@@ -1,1 +1,1 @@
-Wine = Wino (vino)
+Wine (neutral) = Wino (vino)

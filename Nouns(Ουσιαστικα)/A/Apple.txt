@@ -1,1 +1,1 @@
-Apple = Jabłko (jiapko)
+Apple (neutral) = Jabłko (jiapko)

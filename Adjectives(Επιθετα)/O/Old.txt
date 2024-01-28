@@ -1,0 +1,3 @@
+Old (masculine) = Stary (stari)
+Old (feminine) = Stara (stara)
+Old (neutral) = Stare (stare)

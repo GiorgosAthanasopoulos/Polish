@@ -1,3 +1,3 @@
 Big (masculine) = Duży (douze)
 Big (feminine) = Duża (duza)
-Big (neutral) = Duże (douze)
+Big (neutral/plural) = Duże (douze)
